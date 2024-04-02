@@ -1,5 +1,6 @@
 ## 基于taro开发的商城模板
-## 部分UI样式
+## 功能
+商城首页
 <img width="206" alt="mall-1" src="https://github.com/keep-promise/tarojs-mall/assets/64321089/84092d20-0e29-43c1-92a5-025ca649bd9e">
 
 
