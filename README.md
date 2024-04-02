@@ -1,5 +1,5 @@
 ## 基于taro开发的商城模板
-编译成H5和小程序
+一码多端: h5 小程序
 ## 功能
 ### 商城首页
 <img width="206" alt="mall-1" src="https://github.com/keep-promise/tarojs-mall/assets/64321089/84092d20-0e29-43c1-92a5-025ca649bd9e">
